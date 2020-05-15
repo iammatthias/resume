@@ -1,0 +1,19 @@
+{
+    "name": "iammatthias-resume",
+    "version": "1.0.0",
+    "description": "Matthias Jordan's resume, updated May 2020.",
+    "main": "index.js",
+    "repository": "https://github.com/iammatthias/resume.git",
+    "bin": {
+        "iammatthias-resume": "./index.js"
+    },
+    "scripts": {
+        "resume": "node ./index.js"
+    },
+    "author": "Matthias Jordan",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^3.0.0",
+        "inquirer": "^7.0.0"
+    }
+}
