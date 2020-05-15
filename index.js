@@ -41,9 +41,9 @@ function handleResume() {
                 }
                 return console.log(response('Thank you for your time!'));
             });
-    }).catch(err => console.log('Uh oh you broke me, maybe you should consider a career in QA?\n', err));
+    }).catch(err => console.log('That didn\'t work. Want to try something else?\n', err));
 }
 
 //Init :)
-console.log(`Hello world! I'm Andrew, welcome to my resume! 🤓`);
+console.log(`Hi, I am Matthias! Welcome to my resume.`);
 handleResume();
