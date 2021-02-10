@@ -1,34 +1,36 @@
 {
     "Summary": [
-        "Over the last decade I have had the privlage of working with talented teams at General Assembly, Surf Air, Aspiration, and more. Throughout this time I have helped launch exciting new products, managed platform migrations, and increased qualified lead acquisition & conversions."
+        "Photographer and marketing leader with 5 plus years of experience in product, marketing, and CRM. My background encompasses studio management, event production, front end development, marketing, acquisition, and customer engagement. My focus on CRM grew out of an organic desire to leverage my creative background against emerging technologies in order to meet people where they are, while communication effectively and empathetically. "
     ],
     "Education 📚": [
         "Bachelor of Fine Arts in Photography, Brooks Institute. 2010 - 2014"
     ],
     "Past Experience 🧪": [
-        "Omnichannel Marketing Manager, Aspiration. 2018 - Current",
+        "Senior CRM Manager, Aspiration. 2018 - Current",
         "Product & Marketing Coordinator, Surf Air. 2016 - 2018",
-        "Product Management Immersive, General Assembly. 2016"
     ],
     "Tech Stack 💻": [
         "React",
-        "Iterable",
-        "SegmentJS",
-        "GatsbyJS",
-        "Contentful",
-        "Node.js",
-        "CircleCI, Jenkins",
-        "Docker",
-        "Git, Terminal"
+        "React",
+        "NextJS",
+        "GatsbyJS", 
+        "Segment", 
+        "Amplitude", 
+        "Iterable", 
+        "Salesforce"
     ],
     "Achievements \uD83C\uDF1F": [
-        "Developed React-toolchain for rapid flexible email template development.",
-        "Managed CMS platform migration to Iterable @ Aspiration."
+        "Managed ESP migration from Intercom to Iterable",
+        "Maintained +98-99% deliverability rate (verified through Validity Everest)",
+        "Integrated CRM platform with Faraday ML to solve problems at scale", 
+        "Additional information available upon request"
     ],
     "Contact 🤙": [
-        "https://www.linkedin.com/in/iammatthias/",
-        "https://github.com/iammatthias",
-        "https://twitter.com/iammatthias",
+        "iammatthias.com // iammatthias.eth.link",
+        "linkedin.com/in/iammatthias",
+        "github.com/iammatthias",
+        "twitter.com/iammatthias",
+        "www.instagram.com/iammatthias"
         "me@iammatthias.com"
     ]
 }
