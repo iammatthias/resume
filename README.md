@@ -1,5 +1,5 @@
 ### My interactive resume! 
-##### _(May 2020)_
+##### _(Feb 2021)_
 
 
 ### Demo
